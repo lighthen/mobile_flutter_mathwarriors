@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871654390558",
+    "project_id": "math-warriors-d0ce9",
+    "storage_bucket": "math-warriors-d0ce9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871654390558:android:4ab83055c7f72016cae70f",
+        "android_client_info": {
+          "package_name": "com.mathwarriors.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871654390558-vt5okqkcer61sjthrb5a6qlvgssu15c3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mathwarriors.app",
+            "certificate_hash": "c8cc25e725879f9614cd6c1d7b6f4bc040fe5aad"
+          }
+        },
+        {
+          "client_id": "871654390558-edil1ft3scok4u84ppspigcprce4l7ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAulBq-DVllHHskustlbIiZ-Ri9Vd7LeiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871654390558-edil1ft3scok4u84ppspigcprce4l7ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
