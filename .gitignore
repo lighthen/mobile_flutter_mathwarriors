@@ -45,3 +45,6 @@ app.*.map.json
 /android/app/release
 
 AGENTS.md
+
+# Firebase credentials
+android/app/google-services.json
